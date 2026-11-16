@@ -453,4 +453,8 @@
     <string name="dolby_autoeq_search">Search</string>
     <string name="dolby_autoeq_active">Active profile</string>
     <string name="dolby_autoeq_selected">Selected profile</string>
+
+    <!-- Added: completed Arabic translations (strings) -->
+    <string name="dolby_profile_custom">مخصّص</string>
+
 </resources>
